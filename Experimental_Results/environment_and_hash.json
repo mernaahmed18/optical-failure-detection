@@ -1,0 +1,25 @@
+{
+  "recorded_at_utc": "2026-11-17T09:21:11.755212+00:00",
+  "python_version": "3.14.4 (tags/v3.14.4:23116f9, Apr  7 2026, 14:10:54) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "dataset_file": "HardFailure_dataset.csv",
+  "dataset_bytes": 3025870,
+  "dataset_sha256": "ae0aac6f0c69d70f0cfd3b843e8ab219e10aa482dbeb45b91be49ea5148e36cd",
+  "raw_rows": 65733,
+  "raw_cols": 8,
+  "timestamp_min": 1623394634,
+  "timestamp_max": 1623430365,
+  "duration_hours": 9.9253,
+  "packages": {
+    "numpy": "2.4.4",
+    "pandas": "3.0.2",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.8",
+    "pyarrow": "24.0.0",
+    "torch": "2.15.0",
+    "nbformat": "5.10.4",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0"
+  }
+}

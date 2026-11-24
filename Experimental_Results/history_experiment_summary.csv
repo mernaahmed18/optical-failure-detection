@@ -1,0 +1,7 @@
+setting,model,f1_mean,f1_std,precision_mean,recall_mean,event_recall_mean,fa_starts_mean,unknown_starts_mean,coverage_mean
+receiver_only,receiver_only_W1,0.6096,0.0033,0.4831,0.8261,1.0,5.0,3.0,1.0
+receiver_only,receiver_only_W11,0.456,0.0472,0.347,0.6667,0.9333,12.6667,2.3333,0.9881
+receiver_only,receiver_only_W61,0.4346,0.0499,0.3324,0.6352,0.88,7.3333,2.6667,0.9517
+no_ampli1,no_ampli1_W1,0.7095,0.0151,0.6093,0.8503,1.0,3.0,4.0,1.0
+no_ampli1,no_ampli1_W11,0.6873,0.014,0.5823,0.839,1.0,6.6667,6.0,0.9881
+no_ampli1,no_ampli1_W61,0.7156,0.066,0.6507,0.796,0.92,5.3333,6.3333,0.9517

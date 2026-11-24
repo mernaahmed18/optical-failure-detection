@@ -1,0 +1,2 @@
+model,setting,scored_known_seconds,prediction_coverage,timeline_coverage,precision,recall,f1,time_in_alarm_scored_frac,time_in_alarm_timeline_frac,time_in_alarm_normal_s,time_in_alarm_unknown_s,test_events,detected_events,event_recall,normal_evaluation_hours,false_alarm_starts,false_alarms_per_hour,alarm_starts_unknown_target,median_observed_delay_s,max_observed_delay_s,val_f1
+Schedule_Only_Diagnostic,schedule_only_non_deployable,1136,0.9627,0.9623,0.9753,0.7861,0.8705,0.1426,0.1592,4,33,25,23,0.92,0.2597,3,11.5508,10,2.0,5.0,0.9141

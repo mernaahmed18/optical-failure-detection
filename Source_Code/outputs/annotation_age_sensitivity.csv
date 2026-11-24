@@ -1,0 +1,5 @@
+label_max_age_s,is_primary,normal_seconds_all,failure_seconds_all,unknown_seconds_all,episodes_with_pos_label,selected_val_threshold_dBm,test_f1,test_event_recall,false_alarm_starts_normal,alarm_starts_unknown,normal_eval_hours
+3.0,False,33530,967,1235,131/131,-38.0,1.0,1.0,0,13,0.2803
+4.0,True,33576,968,1188,131/131,-38.0,1.0,1.0,0,13,0.2808
+5.0,False,33608,968,1156,131/131,-38.0,1.0,1.0,0,13,0.2811
+7.0,False,33633,968,1131,131/131,-38.0,1.0,1.0,0,13,0.2811
