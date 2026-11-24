@@ -1,7 +1,4 @@
-# Schedule-Robust Optical Failure Detection (Phase I Submission)
-
-**Student:** Mirna Ahmed Mahmoud (`240102992`)  
-**Supervisor:** Dr. Ashraf Adel Mohamed  
+# Schedule-Robust Optical Failure Detection 
 **Dataset:** [Optical Failure Dataset](https://github.com/Network-And-Services/optical-failure-dataset) (`HardFailure_dataset.csv`)
 
 ---
@@ -9,12 +6,9 @@
 ## 1. Submission Folder Structure
 
 ```text
-240102992_Mirna Ahmed_Phase1/
+
 ├── README.md                                  # Technical documentation & execution guide
 ├── requirements.txt                           # Python package dependencies
-├── PROJECT_REPORT.pdf                         # Full Phase I report (Documentation, EDA, Results, Next Steps)
-├── Optical_Failure_Detection_Presentation.pptx# Defense presentation slides
-│
 ├── Dataset/
 │   ├── DATASET.docx                           # Dataset source, description & column specification
 │   ├── HardFailure_dataset.csv                # Raw telemetry (65,733 rows, ~9.93 hours)
